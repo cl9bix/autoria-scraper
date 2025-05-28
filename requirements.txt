@@ -1,0 +1,12 @@
+asyncpg
+SQLAlchemy[asyncio]
+httpx
+python-dotenv
+alembic
+loguru
+apscheduler
+selectolax
+beautifulsoup4
+psycopg2-binary
+pytest-playwright
+playwright
